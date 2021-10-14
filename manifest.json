@@ -1,9 +1,9 @@
 {
  "name": "CR Aviamentos Maraca - Tour Virtual 360°",
- "background_color": "#FFFFFF",
- "description": "Av. Atos Tomás Ferraciú, 430 - Jardim Maraca, São Paulo - SP, 05861-020",
- "start_url": "index.htm",
  "theme_color": "#FFFFFF",
+ "description": "Av. Atos Tomás Ferraciú, 430 - Jardim Maraca, São Paulo - SP, 05861-020",
+ "background_color": "#FFFFFF",
+ "start_url": "index.htm",
  "icons": [
   {
    "type": "image/png",
